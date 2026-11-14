@@ -1,0 +1,73 @@
+comparacion,ventana_s,modelo,eventos,EB_A,EB_B,diferencia_pp,ic95_min_pp,ic95_max_pp,EB_A_ic95
+E1 - E0 (efecto etiquetas),1,C4.5 vertical,189,0.5247,0.5207,0.3999,-0.5276,1.5307,0.5079-0.5422
+E1 - E0 (efecto etiquetas),1,C4.5 tres componentes,189,0.5425,0.5326,0.9902,-1.3449,3.4100,0.5194-0.5660
+E1 - E0 (efecto etiquetas),1,AdaBoost vertical,189,0.5246,0.5211,0.3490,-0.5736,1.5933,0.5111-0.5377
+E1 - E0 (efecto etiquetas),1,AdaBoost tres componentes,189,0.5512,0.5506,0.0510,-0.8954,1.0315,0.5276-0.5734
+E1 - E0 (efecto etiquetas),2,C4.5 vertical,189,0.5159,0.5105,0.5399,-0.0776,1.1679,0.5017-0.5302
+E1 - E0 (efecto etiquetas),2,C4.5 tres componentes,189,0.5362,0.5233,1.2970,0.3544,2.3719,0.5176-0.5545
+E1 - E0 (efecto etiquetas),2,AdaBoost vertical,189,0.5152,0.5016,1.3647,0.5904,2.1990,0.5033-0.5273
+E1 - E0 (efecto etiquetas),2,AdaBoost tres componentes,189,0.5555,0.5482,0.7310,-0.4010,2.0863,0.5331-0.5769
+E1 - E0 (efecto etiquetas),3,C4.5 vertical,189,0.5095,0.5033,0.6218,-0.1199,1.3999,0.4925-0.5259
+E1 - E0 (efecto etiquetas),3,C4.5 tres componentes,189,0.5530,0.5418,1.1177,0.1687,2.4998,0.5296-0.5753
+E1 - E0 (efecto etiquetas),3,AdaBoost vertical,189,0.5180,0.5060,1.1967,0.3123,2.2236,0.5020-0.5327
+E1 - E0 (efecto etiquetas),3,AdaBoost tres componentes,189,0.5489,0.5550,-0.6148,-1.6782,0.6791,0.5246-0.5721
+E2 - E2c (disparador corregido vs original),1,C4.5 vertical,177,0.4975,0.5260,-2.8442,-5.5257,-0.1949,0.4768-0.5184
+E2 - E2c (disparador corregido vs original),1,C4.5 tres componentes,177,0.5184,0.5456,-2.7209,-6.0959,0.7216,0.4861-0.5495
+E2 - E2c (disparador corregido vs original),1,AdaBoost vertical,177,0.5132,0.5232,-1.0029,-3.1569,1.2093,0.4909-0.5361
+E2 - E2c (disparador corregido vs original),1,AdaBoost tres componentes,177,0.5872,0.5618,2.5355,-0.4115,5.5291,0.5513-0.6208
+E2 - E2c (disparador corregido vs original),2,C4.5 vertical,177,0.5022,0.5243,-2.2069,-4.8959,0.5989,0.4811-0.5241
+E2 - E2c (disparador corregido vs original),2,C4.5 tres componentes,177,0.5519,0.5373,1.4570,-1.6156,4.5342,0.5191-0.5836
+E2 - E2c (disparador corregido vs original),2,AdaBoost vertical,177,0.5279,0.5150,1.2883,-0.7947,3.4442,0.5064-0.5506
+E2 - E2c (disparador corregido vs original),2,AdaBoost tres componentes,177,0.5733,0.5590,1.4315,-2.0091,4.7115,0.5429-0.6035
+E2 - E2c (disparador corregido vs original),3,C4.5 vertical,177,0.5202,0.5115,0.8702,-2.1430,3.8241,0.4966-0.5433
+E2 - E2c (disparador corregido vs original),3,C4.5 tres componentes,177,0.5208,0.5399,-1.9049,-4.8307,1.1730,0.4887-0.5509
+E2 - E2c (disparador corregido vs original),3,AdaBoost vertical,177,0.5425,0.5159,2.6631,0.2514,5.1942,0.5193-0.5662
+E2 - E2c (disparador corregido vs original),3,AdaBoost tres componentes,177,0.5744,0.5511,2.3353,-0.7509,5.4477,0.5405-0.6071
+E3 - E3c (onda P vs disparador original),1,C4.5 vertical,94,0.5030,0.4834,1.9574,-2.1915,6.1649,0.4702-0.5312
+E3 - E3c (onda P vs disparador original),1,C4.5 tres componentes,94,0.5060,0.5116,-0.5663,-8.0760,7.2930,0.4496-0.5737
+E3 - E3c (onda P vs disparador original),1,AdaBoost vertical,94,0.4929,0.4968,-0.3886,-4.6627,3.5421,0.4519-0.5292
+E3 - E3c (onda P vs disparador original),1,AdaBoost tres componentes,94,0.5538,0.5266,2.7190,-1.4420,7.4085,0.4996-0.6229
+E3 - E3c (onda P vs disparador original),2,C4.5 vertical,94,0.4801,0.5127,-3.2680,-7.8565,1.3979,0.4487-0.5145
+E3 - E3c (onda P vs disparador original),2,C4.5 tres componentes,94,0.5082,0.5360,-2.7811,-10.3942,3.5523,0.4492-0.5586
+E3 - E3c (onda P vs disparador original),2,AdaBoost vertical,94,0.4633,0.5178,-5.4456,-12.3679,0.0579,0.4125-0.5043
+E3 - E3c (onda P vs disparador original),2,AdaBoost tres componentes,94,0.4900,0.5053,-1.5226,-7.2233,3.3636,0.4501-0.5328
+E3 - E3c (onda P vs disparador original),3,C4.5 vertical,94,0.4566,0.4862,-2.9603,-9.3664,2.0916,0.4091-0.4923
+E3 - E3c (onda P vs disparador original),3,C4.5 tres componentes,94,0.5052,0.5100,-0.4868,-6.6743,6.9237,0.4657-0.5566
+E3 - E3c (onda P vs disparador original),3,AdaBoost vertical,94,0.4877,0.4992,-1.1513,-6.1816,2.7842,0.4532-0.5140
+E3 - E3c (onda P vs disparador original),3,AdaBoost tres componentes,94,0.4776,0.5053,-2.7678,-7.5030,1.7032,0.4284-0.5239
+"tres componentes - vertical, E0_original_etiqueta_historica",1,C4.5,189,0.5326,0.5207,1.1952,-0.6394,3.0368,0.5128-0.5518
+"tres componentes - vertical, E0_original_etiqueta_historica",1,AdaBoost,189,0.5506,0.5211,2.9545,1.1118,4.7134,0.5280-0.5722
+"tres componentes - vertical, E0_original_etiqueta_historica",2,C4.5,189,0.5233,0.5105,1.2779,-1.0581,3.5975,0.5038-0.5426
+"tres componentes - vertical, E0_original_etiqueta_historica",2,AdaBoost,189,0.5482,0.5016,4.6568,2.6238,6.6072,0.5244-0.5705
+"tres componentes - vertical, E0_original_etiqueta_historica",3,C4.5,189,0.5418,0.5033,3.8462,1.4197,6.3300,0.5200-0.5642
+"tres componentes - vertical, E0_original_etiqueta_historica",3,AdaBoost,189,0.5550,0.5060,4.9048,2.7441,7.1407,0.5299-0.5800
+"tres componentes - vertical, E1_original_etiqueta_final",1,C4.5,189,0.5425,0.5247,1.7854,-0.5736,4.2410,0.5189-0.5666
+"tres componentes - vertical, E1_original_etiqueta_final",1,AdaBoost,189,0.5512,0.5246,2.6566,0.7797,4.4059,0.5273-0.5728
+"tres componentes - vertical, E1_original_etiqueta_final",2,C4.5,189,0.5362,0.5159,2.0351,-0.0722,4.2202,0.5175-0.5546
+"tres componentes - vertical, E1_original_etiqueta_final",2,AdaBoost,189,0.5555,0.5152,4.0231,2.0553,6.0297,0.5338-0.5758
+"tres componentes - vertical, E1_original_etiqueta_final",3,C4.5,189,0.5530,0.5095,4.3422,1.8175,7.0164,0.5307-0.5756
+"tres componentes - vertical, E1_original_etiqueta_final",3,AdaBoost,189,0.5489,0.5180,3.0933,1.0438,5.2219,0.5247-0.5722
+"tres componentes - vertical, E2_disparo_corregido",1,C4.5,177,0.5184,0.4975,2.0863,-0.5242,4.8078,0.4862-0.5497
+"tres componentes - vertical, E2_disparo_corregido",1,AdaBoost,177,0.5872,0.5132,7.3974,3.7901,10.9560,0.5510-0.6207
+"tres componentes - vertical, E2_disparo_corregido",2,C4.5,177,0.5519,0.5022,4.9699,1.6639,8.0768,0.5193-0.5831
+"tres componentes - vertical, E2_disparo_corregido",2,AdaBoost,177,0.5733,0.5279,4.5414,1.8509,7.2529,0.5432-0.6031
+"tres componentes - vertical, E2_disparo_corregido",3,C4.5,177,0.5208,0.5202,0.0634,-2.7214,2.7901,0.4887-0.5528
+"tres componentes - vertical, E2_disparo_corregido",3,AdaBoost,177,0.5744,0.5425,3.1946,0.6234,5.6365,0.5414-0.6071
+"tres componentes - vertical, E2c_control_disparo_original",1,C4.5,177,0.5456,0.5260,1.9631,-0.4582,4.4053,0.5205-0.5718
+"tres componentes - vertical, E2c_control_disparo_original",1,AdaBoost,177,0.5618,0.5232,3.8589,1.3373,6.3258,0.5348-0.5872
+"tres componentes - vertical, E2c_control_disparo_original",2,C4.5,177,0.5373,0.5243,1.3061,-1.3706,4.0304,0.5164-0.5590
+"tres componentes - vertical, E2c_control_disparo_original",2,AdaBoost,177,0.5590,0.5150,4.3982,1.9587,6.8848,0.5302-0.5864
+"tres componentes - vertical, E2c_control_disparo_original",3,C4.5,177,0.5399,0.5115,2.8385,0.2233,5.5358,0.5125-0.5662
+"tres componentes - vertical, E2c_control_disparo_original",3,AdaBoost,177,0.5511,0.5159,3.5224,1.3791,5.6124,0.5264-0.5756
+"tres componentes - vertical, E3_onda_P_referencia",1,C4.5,94,0.5060,0.5030,0.2987,-5.5448,7.7887,0.4490-0.5737
+"tres componentes - vertical, E3_onda_P_referencia",1,AdaBoost,94,0.5538,0.4929,6.0838,-0.6767,14.7670,0.5006-0.6246
+"tres componentes - vertical, E3_onda_P_referencia",2,C4.5,94,0.5082,0.4801,2.8144,-2.9452,7.3571,0.4492-0.5580
+"tres componentes - vertical, E3_onda_P_referencia",2,AdaBoost,94,0.4900,0.4633,2.6724,-1.6079,8.3697,0.4504-0.5329
+"tres componentes - vertical, E3_onda_P_referencia",3,C4.5,94,0.5052,0.4566,4.8620,-0.5425,11.8819,0.4656-0.5570
+"tres componentes - vertical, E3_onda_P_referencia",3,AdaBoost,94,0.4776,0.4877,-1.0065,-5.2072,3.7206,0.4298-0.5237
+"tres componentes - vertical, E3c_control_disparo_original",1,C4.5,94,0.5116,0.4834,2.8223,-3.9397,10.0090,0.4544-0.5712
+"tres componentes - vertical, E3c_control_disparo_original",1,AdaBoost,94,0.5266,0.4968,2.9762,-2.0756,9.0879,0.4839-0.5783
+"tres componentes - vertical, E3c_control_disparo_original",2,C4.5,94,0.5360,0.5127,2.3276,-1.5692,6.8448,0.4996-0.5792
+"tres componentes - vertical, E3c_control_disparo_original",2,AdaBoost,94,0.5053,0.5178,-1.2506,-4.6718,3.0268,0.4657-0.5531
+"tres componentes - vertical, E3c_control_disparo_original",3,C4.5,94,0.5100,0.4862,2.3886,-3.9668,8.1911,0.4602-0.5571
+"tres componentes - vertical, E3c_control_disparo_original",3,AdaBoost,94,0.5053,0.4992,0.6100,-3.0764,3.7003,0.4797-0.5305
